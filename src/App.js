@@ -9,6 +9,7 @@ import Navbar from "./components/Navbar";
 import "./styles/global.css";
 import AppProvider from "./context/AppContext";
 
+
 function App() {
   return (
     <AppProvider>
